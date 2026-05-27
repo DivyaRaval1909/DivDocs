@@ -4,13 +4,15 @@ DivDocs is a premium, real-time collaborative document editor and workspace (sim
 
 ---
 
-## 📸 Screenshots
+## 
 
 ### 1. Document Dashboard (Dark Mode)
 ![DivDocs Dashboard](screenshots/dashboard.png)
 
 ### 2. Rich Text Collaborative Editor (Light Mode)
 ![DivDocs Editor Workspace](screenshots/editor.png)
+
+
 
 ---
 
