@@ -16,7 +16,7 @@ DivDocs is a premium, real-time collaborative document editor and workspace (sim
 
 ---
 
-## ✨ Features
+## Features
 
 - **Interactive Document Dashboard**: 
   - Real-time MongoDB document indexing.
@@ -46,7 +46,7 @@ DivDocs is a premium, real-time collaborative document editor and workspace (sim
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**:
   - React 19
@@ -62,7 +62,7 @@ DivDocs is a premium, real-time collaborative document editor and workspace (sim
 
 ---
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16+)
